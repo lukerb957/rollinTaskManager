@@ -45,7 +45,7 @@ Getting Started
 Clone the repo and install frontend dependencies
 
 ```bash
-git clone <your-repo-url>](https://github.com/lukerb957/rollinTaskManager
+git clone https://github.com/lukerb957/rollinTaskManager
 cd rollin-task-manager
 npm install
 ```
